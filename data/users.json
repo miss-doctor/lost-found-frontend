@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "password": "123456",
+    "realName": "管理员",
+    "phone": "13800138000",
+    "type": "admin",
+    "studentId": "20200001",
+    "email": "admin@example.com",
+    "college": "计算机学院",
+    "major": "计算机科学与技术",
+    "class": "2020级1班"
+  },
+  {
+    "id": 2,
+    "username": "asdf",
+    "password": "asdf",
+    "realName": "asdf",
+    "phone": "14578964561",
+    "type": "user",
+    "studentId": "20200002",
+    "email": "546879542@qq.com",
+    "college": "物电",
+    "major": "人工智能",
+    "class": "2020级2班",
+    "points": 6,
+    "level": 1,
+    "creditScore": 100,
+    "honorBadges": []
+  },
+  {
+    "id": 3,
+    "username": "zxcv",
+    "password": "zxcv",
+    "realName": "",
+    "phone": "",
+    "type": "user",
+    "studentId": "",
+    "email": "",
+    "college": "",
+    "major": "",
+    "class": ""
+  },
+  {
+    "id": 4,
+    "username": "qwer",
+    "password": "qwer",
+    "realName": "",
+    "phone": "",
+    "type": "user",
+    "studentId": "",
+    "email": "",
+    "college": "",
+    "major": "",
+    "class": ""
+  }
+]

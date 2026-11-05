@@ -1,0 +1,18 @@
+{
+  "lost": [
+    {
+      "username": "admin",
+      "count": 3
+    },
+    {
+      "username": "asdf",
+      "count": 1
+    }
+  ],
+  "found": [
+    {
+      "username": "admin",
+      "count": 2
+    }
+  ]
+}
